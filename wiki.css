@@ -1,0 +1,20 @@
+#body{
+background-image: url(https://s-media-cache-ak0.pinimg.com/originals/6e/32/87/6e32878542a4a6b86e640204d951fbff.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#randombtn{
+  text-align: center;
+  padding-top: 1%
+}
+
+#search{
+  text-align: center;
+  padding-top: 5%
+}
+
+#display{
+  text-align: center;
+  padding-top: 3%
+}
